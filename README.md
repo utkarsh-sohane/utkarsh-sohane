@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Sohane</h1>
-<h3 align="center">🚀 Full Stack Developer | Java Fan | MERN Stack Pro | Cloud Certified</h3>
+<h3 align="center">🚀 Full Stack Developer | Java | MERN Stack | Cloud Certified</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
@@ -13,7 +13,7 @@
 - 🔍 Actively seeking **SDE internships/full-time roles**
 
 📫 Reach me: **utkarshsohane1551@gmail.com**  
-📄 [View Resume](https://utkarshsohane.github.io/resume.pdf)  
+📄 [View Resume](https://github.com/utkarsh-sohane/utkarshsohaneresume/blob/main/utkarshsohane__CV..pdf)  
 🔗 [LinkedIn](https://www.linkedin.com/in/utkarsh-sohane-05326b21b/) | [GitHub](https://github.com/utkarsh-sohane)
 
 ---
