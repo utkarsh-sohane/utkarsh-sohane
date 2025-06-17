@@ -5,9 +5,9 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding" width="400"/>
 </p>
 
-- 🎓 BTech CSE, VIT Bhopal | 2025 Batch | CGPA: 8.08  
+- 🎓 BTech CSE, VIT Bhopal | 2025 Batch
 - 🌍 Hometown: Kanpur, Uttar Pradesh  
-- 🛠️ Technologies: Java, MERN Stack, Flutter, MySQL, MongoDB  
+- 🛠️ Technologies: Java, MERN Stack, MySQL, MongoDB  
 - 🧠 Learning: Spring Boot, System Design, Socket.IO, Advanced Java  
 - 🏆 Certifications: AWS Cloud Practitioner | MERN Full Stack (Ethnus)  
 - 🔍 Actively seeking **SDE internships/full-time roles**
