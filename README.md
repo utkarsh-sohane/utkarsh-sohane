@@ -143,26 +143,7 @@ AI-powered community analysis platform using Generative AI.
 
 ---
 
-#### 📊 DappLooker Token Insight API
-
-AI-powered API for cryptocurrency token analysis.
-
-**Tech:** Node.js, REST APIs, CoinGecko, OpenRouter LLMs
-
-- Integrated cryptocurrency market data
-- Used LLMs for sentiment and risk analysis
-- Implemented prompt engineering for financial insights
-- Added response validation and fallback handling
-
 ---
-
-#### 🎮 [Ping Pong Multiplayer Game](https://github.com/utkarsh-sohane/PingPongMultiplayer)
-
-Java-based multiplayer Ping Pong game using socket programming and a client-server architecture.
-
-- Real-time 2-player gameplay
-- Java socket programming
-- Client-server communication
 
 ---
 
@@ -170,7 +151,6 @@ Java-based multiplayer Ping Pong game using socket programming and a client-serv
 
 - 🔥 **150+ DSA Problems** solved on LeetCode
 - ⭐ **5-Star Java Badge** on HackerRank
-- 🏆 Participated in **AI Filter Development Contest** by INAXIA Club
 - 🌱 Contributor to open source through **GirlScript Summer of Code**
 - ☁️ **AWS Certified Cloud Practitioner**
 
