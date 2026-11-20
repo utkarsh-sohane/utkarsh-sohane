@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:70a5fd&height=180&section=header&text=Utkarsh%20Sohane&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Backend%20%26%20AI%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+<img src="./assets/header.svg" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -96,4 +96,4 @@ public class Utkarsh {
   </picture>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:70a5fd,100:1a1b27&height=100&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%"/>
